@@ -10,4 +10,4 @@ INSTALLATION INSTRUCTIONS:
 2. Copy SetConsole.exe to C:\Windows
 3. Copy AutoSwitchColorModes shortcut to Desktop
 
-There you go, you can automatically switch between light and dark modes.
+There you go, you can automatically switch between light and dark modes by double-clicking on the shortcut.
