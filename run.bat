@@ -1,5 +1,7 @@
 @echo off
 
+SETCONSOLE /hide
+
 :x
 set hour=%TIME:~0,2%
 set minute=%TIME:~3,2%
