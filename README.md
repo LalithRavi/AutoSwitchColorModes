@@ -1,7 +1,7 @@
 AutoSwitchColorModes
 
 Description:
-Automatically Switches Between Light and Dark Modes in Windows 10 based on hardcoded times
+Automatically Switches Between Light and Dark Modes in Windows 10 based on your current time
 
 ---------------------------------------------------------------------------
 INSTALLATION INSTRUCTIONS:
